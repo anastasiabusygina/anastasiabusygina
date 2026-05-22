@@ -20,7 +20,7 @@ It appears in two layers — not separate jobs, the same work seen from two dist
 
 **Infrastructure & automation** — CI/CD pipelines and deployment tooling. Integration services that keep systems in sync, such as Linear ↔ GitHub Projects or Tilda → Notion. Reusable GitHub Actions workflows. Tailscale, Ansible, Docker.
 
-**Process** — How a small team divides responsibility, records decisions, and stays legible to itself. ADRs alongside the code. Documentation written through roles, not names. The written model is the explicit form of this.
+**Process** — How a small team divides responsibility, records decisions, and stays legible to itself. ADRs alongside the code. Documentation written through roles, not names. The [written model](./working-model) is the explicit form of this.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
