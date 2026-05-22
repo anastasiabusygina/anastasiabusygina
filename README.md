@@ -50,13 +50,4 @@ It appears in two layers — not separate jobs, the same work seen from two dist
 ![Ansible](https://img.shields.io/badge/Ansible-D97757?style=flat-square&labelColor=0A0A0F&logo=ansible&logoColor=D97757)
 ![Tailscale](https://img.shields.io/badge/Tailscale-D97757?style=flat-square&labelColor=0A0A0F&logo=tailscale&logoColor=D97757)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" src="assets/divider-light.svg" width="800">
-</picture>
-
-### Contact
-
-Telegram — [@avditte](https://t.me/avditte)
-
 <sub><i>— v 2026.05</i></sub>
