@@ -111,13 +111,13 @@ The work is **legible to both sides at all times**, and remains legible when con
 
 ---
 
-## Rules and respect
+## A note on respect
 
-Rules operate at the level of process. Their effect, or the effect of their absence, falls on people — on their time, their attention, their ability to do their work.
+This document describes the engagement in terms of roles and obligations. Some readers describe a working relationship in a different vocabulary — as a matter of *respect for the person*. This section is for them: it notes that the two vocabularies describe the same structure.
 
-In a system without rules, uncertainty fills up with familiarity and convenience: working processes get replaced by "human relations," and under that cover one can fail to respond on time, fail to record decisions, fail to clarify what is unclear. From the standpoint of work — the processes are broken. From the standpoint of relations — this is exactly where disrespect appears: one side disposes of the other's time and attention bypassing the agreement.
+Where rules are absent, the process is often described instead as "human relations." Within that description, responses are not given on time, decisions are not recorded, unclear points are not clarified. In the vocabulary of respect, this is what gets named *disrespect*: one side uses the other's time and attention without the agreement that would govern it. The structural fact and the moral word point at the same event.
 
-In a system with rules, this substitution is not possible. Responding on time, recording decisions, changing agreements explicitly — this is what respect for the other side's time and for the quality of information transfer looks like, without which no one can do their work. The rigidity of the rules here is not the opposite of respect. It is its form.
+Where rules are kept, this does not occur. Responding on time, recording decisions, changing agreements explicitly — in the vocabulary of respect, this is exactly what respect for the other side's time consists of. The two vocabularies do not compete. The rules and the respect are one structure under two names.
 
 ---
 
